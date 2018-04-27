@@ -5,7 +5,7 @@ Hero Section
 <div class="hero-container">
   <div class="wow fadeIn">
     <div class="hero-logo">
-      <img class="" src="assets/img/logo.jpeg" alt="Imperial">
+      <img class="" src="assets/img/logo.PNG" alt="MairsHub Solutions">
     </div>
 
     <h1>Welcome to MairsHub Solutions</h1>

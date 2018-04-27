@@ -6,7 +6,7 @@ Header Section
 <div class="container">
 
   <div id="logo" class="pull-left">
-    <a href="#hero"><img src="assets/img/logo.jpeg" alt="" title="" /></img></a>
+    <a href="#hero"><img src="assets/img/logo.PNG" alt="" title="" /></img></a>
     <!-- Uncomment below if you prefer to use a text image -->
     <!--<h1><a href="#hero">Header 1</a></h1>-->
   </div>
