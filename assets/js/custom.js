@@ -108,3 +108,10 @@ jQuery(document).ready(function( $ ) {
   });
 
 });
+
+$(document).ready(function() {
+  $('#media').carousel({
+    pause: false,
+    interval: 7000,
+  });
+});

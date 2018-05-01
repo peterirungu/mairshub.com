@@ -2,21 +2,21 @@
 <!--==========================
 Header Section
 ============================-->
-<header id="header">
+<header id="header" class="nav-menu-tborder">
 <div class="container">
 
   <div id="logo" class="pull-left">
-    <a href="#hero"><img src="assets/img/logo.PNG" alt="" title="" /></img></a>
+    <a href="#hero"><img src="assets/img/logo.png" alt="" title="" /></img></a>
     <!-- Uncomment below if you prefer to use a text image -->
     <!--<h1><a href="#hero">Header 1</a></h1>-->
   </div>
-  <nav id="nav-menu-container">
+  <nav id="nav-menu-container" class="circle">
     <ul class="nav-menu">
       <li class="menu-active"><a href="#hero">Home</a></li>
       <li><a href="#services">What We Do</a></li>
       <li><a href="#about">Who We Are</a></li>
-      <li><a href="#portfolio">Achievments/Projects</a></li>
-      <li><a href="#testimonials">Our Blogs</a></li>
+      <li><a href="#work">Our Work</a></li>
+      <li><a href="#blogs">Our Blogs</a></li>
       <!-- <li><a href="#team">Team</a></li> -->
       <!-- <li class="menu-has-children"><a href="">Drop Down</a>
         <ul>
