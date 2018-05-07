@@ -16,7 +16,7 @@ Contact Section
       <div class="info">
         <div>
           <i class="fa fa-map-marker"></i>
-          <p>A108 Adam Street<br>New York, NY 535022</p>
+          <p>Nairobi Kenya<br>City Square ,6040-00200 </p>
         </div>
 
         <div>

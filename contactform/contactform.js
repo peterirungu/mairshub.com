@@ -79,7 +79,7 @@ jQuery(document).ready(function($) {
         else var str = $(this).serialize();		
             $.ajax({
                 type: "POST",
-                url: "contactform/contactform.php",
+                url: "contactform/contact.php",
                 data: str,
                 success: function(msg){
                    // alert(msg);
